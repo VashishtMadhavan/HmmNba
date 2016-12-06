@@ -1,0 +1,83 @@
+Opponent
+Indiana Pacers
+Houston Rockets
+Houston Rockets
+Utah Jazz
+Portland Trail Blazers
+Milwaukee Bucks
+Los Angeles Lakers
+Golden State Warriors
+New York Knicks
+Boston Celtics
+Memphis Grizzlies
+Orlando Magic
+San Antonio Spurs
+Los Angeles Clippers
+Cleveland Cavaliers
+New Orleans Pelicans
+San Antonio Spurs
+Charlotte Hornets
+Chicago Bulls
+Charlotte Hornets
+Sacramento Kings
+Indiana Pacers
+Houston Rockets
+Denver Nuggets
+Detroit Pistons
+Utah Jazz
+Sacramento Kings
+Denver Nuggets
+Portland Trail Blazers
+Los Angeles Clippers
+New Orleans Pelicans
+Houston Rockets
+Los Angeles Lakers
+Golden State Warriors
+Washington Wizards
+Phoenix Suns
+Atlanta Hawks
+Minnesota Timberwolves
+Phoenix Suns
+Minnesota Timberwolves
+Chicago Bulls
+Miami Heat
+Utah Jazz
+Los Angeles Lakers
+New York Knicks
+Oklahoma City Thunder
+San Antonio Spurs
+Cleveland Cavaliers
+Philadelphia 76ers
+Portland Trail Blazers
+Denver Nuggets
+Portland Trail Blazers
+Utah Jazz
+Orlando Magic
+Boston Celtics
+Detroit Pistons
+Minnesota Timberwolves
+New Orleans Pelicans
+Miami Heat
+Atlanta Hawks
+Memphis Grizzlies
+Oklahoma City Thunder
+Los Angeles Lakers
+Brooklyn Nets
+Phoenix Suns
+Toronto Raptors
+Washington Wizards
+Philadelphia 76ers
+Brooklyn Nets
+Golden State Warriors
+Los Angeles Clippers
+Toronto Raptors
+Oklahoma City Thunder
+New Orleans Pelicans
+Memphis Grizzlies
+Milwaukee Bucks
+Sacramento Kings
+Los Angeles Clippers
+San Antonio Spurs
+Phoenix Suns
+Denver Nuggets
+Memphis Grizzlies
